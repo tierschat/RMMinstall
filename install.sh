@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SCRIPT_VERSION="57"
+SCRIPT_VERSION="58"
 SCRIPT_URL='https://github.com/tierschat/RMMinstall/blob/2cd6c4d7584fb1ae7897fecb9975195aff2fe66a/install.sh'
 
 sudo apt install -y curl wget dirmngr gnupg lsb-release
